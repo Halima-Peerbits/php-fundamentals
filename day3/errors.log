@@ -1,0 +1,7 @@
+[2025-08-28 11:40:14] EXCEPTION: Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/day3/error_logger.php on line 36
+[2025-08-28 11:40:42] EXCEPTION: Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/day3/error_logger.php on line 36
+[2025-08-28 11:40:43] EXCEPTION: Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/day3/error_logger.php on line 36
+[2025-08-28 11:40:44] EXCEPTION: Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /var/www/html/day3/error_logger.php on line 36
+[2025-08-28 11:41:41] EXCEPTION: Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'non_existing_db' in /var/www/html/day3/error_logger.php on line 36
+[2025-08-28 11:41:42] EXCEPTION: Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'non_existing_db' in /var/www/html/day3/error_logger.php on line 36
+[2025-08-28 11:41:42] EXCEPTION: Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'non_existing_db' in /var/www/html/day3/error_logger.php on line 36

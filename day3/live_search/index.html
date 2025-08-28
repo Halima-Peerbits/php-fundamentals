@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Live Search with PHP + AJAX</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    #results { margin-top: 10px; border: 1px solid #ccc; border-radius: 5px; padding: 10px; max-width: 400px; }
+    input { width: 300px; padding: 8px; font-size: 16px; }
+  </style>
+</head>
+<body>
+
+  <h2>🔍 Live Search</h2>
+  <input type="text" id="searchBox" placeholder="Type a name...">
+  <div id="results">Type something to search...</div>
+
+  <script>
+    const searchBox = document.getElementById("searchBox");
+    const resultsDiv = document.getElementById("results");
+
+    searchBox.addEventListener("keyup", function () {
+      let query = this.value;
+
+      // Make AJAX request
+      let xhr = new XMLHttpRequest();
+      xhr.open("GET", "search.php?q=" + encodeURIComponent(query), true);
+      xhr.onload = function () {
+        if (this.status === 200) {
+          resultsDiv.innerHTML = this.responseText;
+        }
+      };
+      xhr.send();
+    });
+  </script>
+
+</body>
+</html>
