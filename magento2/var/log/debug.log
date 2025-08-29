@@ -1,0 +1,1089 @@
+[2025-08-29T11:24:18.752471+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:18.753481+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:18.753796+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:18.754072+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:18.754351+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:18.754628+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:18.754882+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:18.755134+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:18.755388+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:18.755651+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:18.755897+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:18.821963+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:18.822457+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:18.822787+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:25.639380+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:25.639615+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["user_assigned_role"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.689002+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.696890+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.819141+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.904197+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.907462+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.907712+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.907930+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.945897+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.946201+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.946450+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.946650+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.948721+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.950683+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.981496+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.981895+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.982160+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.982390+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.991024+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.991274+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.991469+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.991632+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:25.999923+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.000297+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.000563+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.000757+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.009103+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.009471+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.009698+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.009892+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.018665+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.018996+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.019224+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.019518+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.027126+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.027665+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.027852+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.028002+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.034803+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.035126+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.035387+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.035583+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.045212+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.045950+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.046196+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.046404+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.055147+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.055564+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.055794+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.056008+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.074592+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.075475+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.075747+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.075960+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.084881+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.085175+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.085466+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.085690+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.094203+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.094487+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.094668+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.094829+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.101969+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.102248+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.102446+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.102609+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.110739+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.111279+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.111491+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.111654+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.120428+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.120763+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.121008+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.121227+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.130568+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.130908+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.131150+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.131389+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.140982+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.141511+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.141783+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.142027+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.152293+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.152713+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.152998+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.153238+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.180513+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.181127+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.181313+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.181590+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.190949+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.191369+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.191713+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.191973+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.202190+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.202664+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.202969+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.203272+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.227760+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.228217+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.228630+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.228986+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.286828+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.287084+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.287294+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.287584+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.297230+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.297636+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.297818+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.298069+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.308041+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.308575+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.308957+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.309262+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.319683+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.320209+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.320612+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.320926+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.344861+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.345326+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.345730+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.346124+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.356174+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.356712+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.357065+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.357389+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.368969+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.369487+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.369853+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.370180+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.382133+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.382639+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.383010+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.383326+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.393676+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.394298+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.394677+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.394993+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.406169+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.406684+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.407024+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.407367+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.520332+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cms_p"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.535498+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cms_p"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.544110+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cms_p"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.552384+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cms_p"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.583990+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cms_p"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.623934+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.632366+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:26.787266+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:27.181816+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c_1","cat_c_p_1","cat_c"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:27.188948+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c_1","cat_c","cat_c_p_1"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:27.202648+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":{"0":"cat_c_2","1":"cat_c_p_2","2":"cat_c_p_1","4":"cat_c"},"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:27.203120+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c_2","cat_c_p_1","cat_c_p_2","cat_c"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:27.730089+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c_1","cat_c_2"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:27.932694+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:27.933164+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:27.933671+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:27.934652+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"request_declaration"}} []
+[2025-08-29T11:24:27.936300+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"request_declaration"}} []
+[2025-08-29T11:24:27.948098+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:27.948472+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:27.948756+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:27.949057+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"request_declaration"}} []
+[2025-08-29T11:24:27.949443+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"request_declaration"}} []
+[2025-08-29T11:24:28.090673+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:28.097695+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:28.103768+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:28.111357+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:28.119209+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:28.177102+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:28.217457+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:28.231218+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:28.235812+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV","EAV_ATTRIBUTE"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:28.312113+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["config_scopes","CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:28.708256+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cms_p"],"mode":"matchingAnyTag"}} []
+[2025-08-29T11:24:29.616398+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_design_config_grid_flat_1"}} []
+[2025-08-29T11:24:29.616688+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_design_config_grid_flat_2"}} []
+[2025-08-29T11:24:29.616919+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_design_config_grid_flat_3"}} []
+[2025-08-29T11:24:29.617136+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_design_config_grid_flat_4"}} []
+[2025-08-29T11:24:29.617307+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_design_config_grid_flat_5"}} []
+[2025-08-29T11:24:29.870187+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_1"}} []
+[2025-08-29T11:24:29.870468+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_2"}} []
+[2025-08-29T11:24:29.870645+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_3"}} []
+[2025-08-29T11:24:29.870791+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_4"}} []
+[2025-08-29T11:24:29.870942+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_5"}} []
+[2025-08-29T11:24:29.935991+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:29.936574+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:29.937028+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:30.074996+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:30.075406+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:30.075687+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:30.075961+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:30.076220+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:30.078137+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:30.078552+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:30.079139+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:30.079429+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:30.079676+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:30.079912+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:30.080205+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:30.080468+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2025-08-29T11:24:30.080706+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.073705+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.077562+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.078580+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.079180+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.079571+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.079929+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.080593+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.080910+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.081694+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.082202+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.082665+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.083081+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.083576+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.083939+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2025-08-29T12:10:41.084543+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2025-08-29T12:11:00.872959+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:12:28.074844+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_1"}} []
+[2025-08-29T12:12:28.075628+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_2"}} []
+[2025-08-29T12:12:28.075859+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_3"}} []
+[2025-08-29T12:12:28.076057+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_4"}} []
+[2025-08-29T12:12:28.076770+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_5"}} []
+[2025-08-29T12:12:28.253738+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_1"}} []
+[2025-08-29T12:12:28.253979+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_2"}} []
+[2025-08-29T12:12:28.254112+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_3"}} []
+[2025-08-29T12:12:28.254251+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_4"}} []
+[2025-08-29T12:12:28.254372+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_5"}} []
+[2025-08-29T12:12:28.565577+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_1"}} []
+[2025-08-29T12:12:28.565768+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_2"}} []
+[2025-08-29T12:12:28.565892+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_3"}} []
+[2025-08-29T12:12:28.565998+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_4"}} []
+[2025-08-29T12:12:28.566578+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_5"}} []
+[2025-08-29T12:12:28.566692+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_outdated_1"}} []
+[2025-08-29T12:12:28.566783+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_outdated_2"}} []
+[2025-08-29T12:12:28.566871+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_outdated_3"}} []
+[2025-08-29T12:12:28.566957+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_outdated_4"}} []
+[2025-08-29T12:12:28.567039+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_outdated_5"}} []
+[2025-08-29T12:12:28.567483+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_replica_1"}} []
+[2025-08-29T12:12:28.567588+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_replica_2"}} []
+[2025-08-29T12:12:28.567670+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_replica_3"}} []
+[2025-08-29T12:12:28.567753+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_replica_4"}} []
+[2025-08-29T12:12:28.568143+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_category_product_index_store1_replica_5"}} []
+[2025-08-29T12:12:28.569270+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c","FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:12:28.569412+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c"],"mode":"matchingAnyTag"}} []
+[2025-08-29T12:12:28.987749+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_1"}} []
+[2025-08-29T12:12:28.988071+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_2"}} []
+[2025-08-29T12:12:28.988290+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_3"}} []
+[2025-08-29T12:12:28.988513+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_4"}} []
+[2025-08-29T12:12:28.988706+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_5"}} []
+[2025-08-29T12:12:28.988880+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_productf356c695_1"}} []
+[2025-08-29T12:12:28.989109+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_productf356c695_2"}} []
+[2025-08-29T12:12:28.989190+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_productf356c695_3"}} []
+[2025-08-29T12:12:28.989271+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_productf356c695_4"}} []
+[2025-08-29T12:12:28.989372+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_productf356c695_5"}} []
+[2025-08-29T12:12:28.989466+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product__temp15b8ab76_1"}} []
+[2025-08-29T12:12:28.989548+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product__temp15b8ab76_2"}} []
+[2025-08-29T12:12:28.989632+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product__temp15b8ab76_3"}} []
+[2025-08-29T12:12:28.989710+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product__temp15b8ab76_4"}} []
+[2025-08-29T12:12:28.989785+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product__temp15b8ab76_5"}} []
+[2025-08-29T12:12:28.989866+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_price_1"}} []
+[2025-08-29T12:12:28.989951+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_price_2"}} []
+[2025-08-29T12:12:28.990025+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_price_3"}} []
+[2025-08-29T12:12:28.990099+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_price_4"}} []
+[2025-08-29T12:12:28.990173+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_price_5"}} []
+[2025-08-29T12:12:28.990249+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_priceda97a0a3_1"}} []
+[2025-08-29T12:12:28.990324+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_priceda97a0a3_2"}} []
+[2025-08-29T12:12:28.990417+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_priceda97a0a3_3"}} []
+[2025-08-29T12:12:28.990527+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_priceda97a0a3_4"}} []
+[2025-08-29T12:12:28.990604+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_priceda97a0a3_5"}} []
+[2025-08-29T12:12:28.990681+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_price__temp8a8d87dc_1"}} []
+[2025-08-29T12:12:28.990755+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_price__temp8a8d87dc_2"}} []
+[2025-08-29T12:12:28.990829+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_price__temp8a8d87dc_3"}} []
+[2025-08-29T12:12:28.990902+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_price__temp8a8d87dc_4"}} []
+[2025-08-29T12:12:28.990975+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_price__temp8a8d87dc_5"}} []
+[2025-08-29T12:12:28.991051+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_website_1"}} []
+[2025-08-29T12:12:28.991125+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_website_2"}} []
+[2025-08-29T12:12:28.991198+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_website_3"}} []
+[2025-08-29T12:12:28.991270+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_website_4"}} []
+[2025-08-29T12:12:28.991354+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_website_5"}} []
+[2025-08-29T12:12:28.991440+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_websiteb97d7b88_1"}} []
+[2025-08-29T12:12:28.991514+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_websiteb97d7b88_2"}} []
+[2025-08-29T12:12:28.991583+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_websiteb97d7b88_3"}} []
+[2025-08-29T12:12:28.991658+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_websiteb97d7b88_4"}} []
+[2025-08-29T12:12:28.991731+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_websiteb97d7b88_5"}} []
+[2025-08-29T12:12:28.991806+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_website__tempd6178791_1"}} []
+[2025-08-29T12:12:28.991879+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_website__tempd6178791_2"}} []
+[2025-08-29T12:12:28.991952+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_website__tempd6178791_3"}} []
+[2025-08-29T12:12:28.992024+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_website__tempd6178791_4"}} []
+[2025-08-29T12:12:28.992104+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_website__tempd6178791_5"}} []
+[2025-08-29T12:12:29.010015+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_productf356c695_1"}} []
+[2025-08-29T12:12:29.010259+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_productf356c695_2"}} []
+[2025-08-29T12:12:29.010387+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_productf356c695_3"}} []
+[2025-08-29T12:12:29.010489+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_productf356c695_4"}} []
+[2025-08-29T12:12:29.010578+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_productf356c695_5"}} []
+[2025-08-29T12:12:29.025805+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_priceda97a0a3_1"}} []
+[2025-08-29T12:12:29.026086+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_priceda97a0a3_2"}} []
+[2025-08-29T12:12:29.026279+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_priceda97a0a3_3"}} []
+[2025-08-29T12:12:29.026511+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_priceda97a0a3_4"}} []
+[2025-08-29T12:12:29.026684+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_product_priceda97a0a3_5"}} []
+[2025-08-29T12:12:29.044741+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_websiteb97d7b88_1"}} []
+[2025-08-29T12:12:29.044935+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_websiteb97d7b88_2"}} []
+[2025-08-29T12:12:29.045071+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_websiteb97d7b88_3"}} []
+[2025-08-29T12:12:29.045190+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_websiteb97d7b88_4"}} []
+[2025-08-29T12:12:29.045299+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalogrule_group_websiteb97d7b88_5"}} []
+[2025-08-29T12:12:29.045569+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c","FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:12:29.045801+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_p","FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:12:29.045918+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML","FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:12:29.046057+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c","cat_p","BLOCK_HTML"],"mode":"matchingAnyTag"}} []
+[2025-08-29T12:12:29.216778+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_1"}} []
+[2025-08-29T12:12:29.216967+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_2"}} []
+[2025-08-29T12:12:29.217094+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_3"}} []
+[2025-08-29T12:12:29.217211+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_4"}} []
+[2025-08-29T12:12:29.217306+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_5"}} []
+[2025-08-29T12:12:29.217432+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_outdated_1"}} []
+[2025-08-29T12:12:29.217522+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_outdated_2"}} []
+[2025-08-29T12:12:29.217608+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_outdated_3"}} []
+[2025-08-29T12:12:29.217702+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_outdated_4"}} []
+[2025-08-29T12:12:29.217787+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_outdated_5"}} []
+[2025-08-29T12:12:29.217870+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_replica_1"}} []
+[2025-08-29T12:12:29.217948+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_replica_2"}} []
+[2025-08-29T12:12:29.218025+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_replica_3"}} []
+[2025-08-29T12:12:29.218100+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_replica_4"}} []
+[2025-08-29T12:12:29.218609+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_replica_5"}} []
+[2025-08-29T12:12:29.333043+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_1"}} []
+[2025-08-29T12:12:29.333220+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_2"}} []
+[2025-08-29T12:12:29.333351+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_3"}} []
+[2025-08-29T12:12:29.333582+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_4"}} []
+[2025-08-29T12:12:29.333764+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_5"}} []
+[2025-08-29T12:12:29.333947+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_outdated_1"}} []
+[2025-08-29T12:12:29.334120+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_outdated_2"}} []
+[2025-08-29T12:12:29.334287+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_outdated_3"}} []
+[2025-08-29T12:12:29.334507+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_outdated_4"}} []
+[2025-08-29T12:12:29.334692+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_outdated_5"}} []
+[2025-08-29T12:12:29.334882+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_replica_1"}} []
+[2025-08-29T12:12:29.335050+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_replica_2"}} []
+[2025-08-29T12:12:29.335240+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_replica_3"}} []
+[2025-08-29T12:12:29.335433+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_replica_4"}} []
+[2025-08-29T12:12:29.336363+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_replica_5"}} []
+[2025-08-29T12:12:29.336778+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c","FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:12:29.336958+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_p","FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:12:29.337149+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c","cat_p"],"mode":"matchingAnyTag"}} []
+[2025-08-29T12:12:29.516073+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_1"}} []
+[2025-08-29T12:12:29.516450+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_2"}} []
+[2025-08-29T12:12:29.516641+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_3"}} []
+[2025-08-29T12:12:29.516797+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_4"}} []
+[2025-08-29T12:12:29.516949+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_5"}} []
+[2025-08-29T12:12:29.517101+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_outdated_1"}} []
+[2025-08-29T12:12:29.517244+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_outdated_2"}} []
+[2025-08-29T12:12:29.517396+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_outdated_3"}} []
+[2025-08-29T12:12:29.517543+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_outdated_4"}} []
+[2025-08-29T12:12:29.517685+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_outdated_5"}} []
+[2025-08-29T12:12:29.517850+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_replica_1"}} []
+[2025-08-29T12:12:29.517961+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_replica_2"}} []
+[2025-08-29T12:12:29.518063+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_replica_3"}} []
+[2025-08-29T12:12:29.518190+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_replica_4"}} []
+[2025-08-29T12:12:29.519230+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_cataloginventory_stock_status_replica_5"}} []
+[2025-08-29T12:12:29.519501+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c","FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:12:29.519605+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_p","FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:12:29.519703+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c","cat_p"],"mode":"matchingAnyTag"}} []
+[2025-08-29T12:12:29.730969+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_1"}} []
+[2025-08-29T12:12:29.731247+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_2"}} []
+[2025-08-29T12:12:29.731462+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_3"}} []
+[2025-08-29T12:12:29.731641+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_4"}} []
+[2025-08-29T12:12:29.731825+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_5"}} []
+[2025-08-29T12:12:29.732005+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_outdated_1"}} []
+[2025-08-29T12:12:29.732172+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_outdated_2"}} []
+[2025-08-29T12:12:29.732327+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_outdated_3"}} []
+[2025-08-29T12:12:29.732498+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_outdated_4"}} []
+[2025-08-29T12:12:29.732640+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_outdated_5"}} []
+[2025-08-29T12:12:29.732798+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_replica_1"}} []
+[2025-08-29T12:12:29.732943+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_replica_2"}} []
+[2025-08-29T12:12:29.733053+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_replica_3"}} []
+[2025-08-29T12:12:29.733155+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_replica_4"}} []
+[2025-08-29T12:12:29.733767+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_catalog_product_index_price_replica_5"}} []
+[2025-08-29T12:12:29.734028+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c","FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:12:29.734136+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_p","FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:12:29.734232+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["cat_c","cat_p"],"mode":"matchingAnyTag"}} []
+[2025-08-29T12:19:42.473981+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:19:42.480711+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:19:42.481408+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2025-08-29T12:19:42.481989+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2025-08-29T12:19:42.482561+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2025-08-29T12:19:42.483003+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2025-08-29T12:19:42.484194+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2025-08-29T12:19:42.484697+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:19:42.485653+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2025-08-29T12:19:42.486150+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2025-08-29T12:19:42.486619+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2025-08-29T12:19:42.487074+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:19:42.487629+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:19:42.488030+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2025-08-29T12:19:42.488725+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2025-08-29T12:20:01.158332+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:08.115066+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:08.116670+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:08.117099+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:08.117472+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:08.117841+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:08.118165+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:08.118474+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:08.118751+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:08.119017+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:08.119287+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:08.119567+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:08.150948+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:08.151409+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:08.151768+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.792172+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.852462+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.853302+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.853587+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.853838+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.854086+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.854331+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.854594+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.854834+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.855073+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.855311+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.855576+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.855972+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.856221+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:17.856483+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:27.664566+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:27.665221+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:27.665640+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T12:21:42.310162+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":[],"mode":"all"}} []
+[2025-08-29T12:21:42.322911+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":[],"mode":"all"}} []
+[2025-08-29T12:24:40.225676+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["config_scopes","CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:26:31.998698+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["config_scopes","CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T12:26:47.379377+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T13:14:50.922180+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["config_scopes","CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T13:14:51.024162+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["config_scopes","CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T13:15:06.859493+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["config_scopes","CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T13:15:06.867008+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["config_scopes","CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T13:15:20.264754+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T13:17:14.351577+00:00] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://magento2.local/admin_yw4pn7","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingAnyTag"}} []
+[2025-08-29T13:17:14.416118+00:00] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://magento2.local/admin_yw4pn7","invalidateInfo":{"tags":["PB_EDITOR_CONFIG","CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T13:17:14.429354+00:00] main.INFO: Item Magento_Backend::system_currency was removed [] []
+[2025-08-29T13:17:14.437078+00:00] main.INFO: Add of item with id Magento_Config::system_config was processed [] []
+[2025-08-29T13:17:14.437243+00:00] main.INFO: Add of item with id Magento_AdminNotification::system_adminnotification was processed [] []
+[2025-08-29T13:17:14.437333+00:00] main.INFO: Add of item with id Magento_Theme::design_config was processed [] []
+[2025-08-29T13:17:14.437416+00:00] main.INFO: Add of item with id Magento_Theme::system_design_theme was processed [] []
+[2025-08-29T13:17:14.437481+00:00] main.INFO: Add of item with id Magento_Backend::system_design_schedule was processed [] []
+[2025-08-29T13:17:14.437544+00:00] main.INFO: Add of item with id Magento_Backend::system_store was processed [] []
+[2025-08-29T13:17:14.437604+00:00] main.INFO: Add of item with id Magento_Backend::dashboard was processed [] []
+[2025-08-29T13:17:14.437662+00:00] main.INFO: Add of item with id Magento_Backend::system was processed [] []
+[2025-08-29T13:17:14.437734+00:00] main.INFO: Add of item with id Magento_Backend::system_tools was processed [] []
+[2025-08-29T13:17:14.437801+00:00] main.INFO: Add of item with id Magento_Backend::system_design was processed [] []
+[2025-08-29T13:17:14.437859+00:00] main.INFO: Add of item with id Magento_Backend::system_convert was processed [] []
+[2025-08-29T13:17:14.437923+00:00] main.INFO: Add of item with id Magento_Backend::system_cache was processed [] []
+[2025-08-29T13:17:14.437981+00:00] main.INFO: Add of item with id Magento_Backend::marketing was processed [] []
+[2025-08-29T13:17:14.438044+00:00] main.INFO: Add of item with id Magento_Backend::marketing_communications was processed [] []
+[2025-08-29T13:17:14.438102+00:00] main.INFO: Add of item with id Magento_Backend::marketing_seo was processed [] []
+[2025-08-29T13:17:14.438158+00:00] main.INFO: Add of item with id Magento_Backend::marketing_user_content was processed [] []
+[2025-08-29T13:17:14.438215+00:00] main.INFO: Add of item with id Magento_Backend::content was processed [] []
+[2025-08-29T13:17:14.438271+00:00] main.INFO: Add of item with id Magento_Backend::content_elements was processed [] []
+[2025-08-29T13:17:14.438354+00:00] main.INFO: Add of item with id Magento_Backend::stores was processed [] []
+[2025-08-29T13:17:14.438423+00:00] main.INFO: Add of item with id Magento_Backend::stores_settings was processed [] []
+[2025-08-29T13:17:14.438480+00:00] main.INFO: Add of item with id Magento_Backend::stores_attributes was processed [] []
+[2025-08-29T13:17:14.438534+00:00] main.INFO: Add of item with id Magento_Backend::other_settings was processed [] []
+[2025-08-29T13:17:14.438587+00:00] main.INFO: Add of item with id Magento_Backend::system_other_settings was processed [] []
+[2025-08-29T13:17:14.438641+00:00] main.INFO: Add of item with id Magento_User::system_acl was processed [] []
+[2025-08-29T13:17:14.438725+00:00] main.INFO: Add of item with id Magento_User::system_acl_users was processed [] []
+[2025-08-29T13:17:14.438780+00:00] main.INFO: Add of item with id Magento_User::system_acl_roles was processed [] []
+[2025-08-29T13:17:14.438833+00:00] main.INFO: Add of item with id Magento_User::system_acl_locks was processed [] []
+[2025-08-29T13:17:14.438886+00:00] main.INFO: Add of item with id Magento_Customer::customer was processed [] []
+[2025-08-29T13:17:14.438945+00:00] main.INFO: Add of item with id Magento_Customer::customer_manage was processed [] []
+[2025-08-29T13:17:14.439000+00:00] main.INFO: Add of item with id Magento_Customer::customer_online was processed [] []
+[2025-08-29T13:17:14.439053+00:00] main.INFO: Add of item with id Magento_Customer::customer_group was processed [] []
+[2025-08-29T13:17:14.439106+00:00] main.INFO: Add of item with id Magento_Backup::system_tools_backup was processed [] []
+[2025-08-29T13:17:14.439159+00:00] main.INFO: Add of item with id Magento_Indexer::system_index was processed [] []
+[2025-08-29T13:17:14.439212+00:00] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
+[2025-08-29T13:17:14.439281+00:00] main.INFO: Add of item with id Magento_Cms::cms_page was processed [] []
+[2025-08-29T13:17:14.439394+00:00] main.INFO: Add of item with id Magento_Cms::cms_block was processed [] []
+[2025-08-29T13:17:14.439466+00:00] main.INFO: Add of item with id Magento_Search::search_terms was processed [] []
+[2025-08-29T13:17:14.439521+00:00] main.INFO: Add of item with id Magento_Search::search_synonyms was processed [] []
+[2025-08-29T13:17:14.439574+00:00] main.INFO: Add of item with id Magento_Catalog::catalog was processed [] []
+[2025-08-29T13:17:14.439634+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_products was processed [] []
+[2025-08-29T13:17:14.439689+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_categories was processed [] []
+[2025-08-29T13:17:14.439748+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_attributes was processed [] []
+[2025-08-29T13:17:14.439804+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_sets was processed [] []
+[2025-08-29T13:17:14.439864+00:00] main.INFO: Add of item with id Magento_Catalog::inventory was processed [] []
+[2025-08-29T13:17:14.439919+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo was processed [] []
+[2025-08-29T13:17:14.439978+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo_catalog was processed [] []
+[2025-08-29T13:17:14.440033+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media was processed [] []
+[2025-08-29T13:17:14.440092+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media_gallery was processed [] []
+[2025-08-29T13:17:14.440146+00:00] main.INFO: Add of item with id Magento_Integration::system_extensions was processed [] []
+[2025-08-29T13:17:14.440205+00:00] main.INFO: Add of item with id Magento_Integration::system_integrations was processed [] []
+[2025-08-29T13:17:14.440259+00:00] main.INFO: Add of item with id Magento_Sales::sales was processed [] []
+[2025-08-29T13:17:14.440319+00:00] main.INFO: Add of item with id Magento_Sales::sales_operation was processed [] []
+[2025-08-29T13:17:14.440397+00:00] main.INFO: Add of item with id Magento_Sales::sales_order was processed [] []
+[2025-08-29T13:17:14.440460+00:00] main.INFO: Add of item with id Magento_Sales::sales_invoice was processed [] []
+[2025-08-29T13:17:14.440514+00:00] main.INFO: Add of item with id Magento_Sales::sales_shipment was processed [] []
+[2025-08-29T13:17:14.440567+00:00] main.INFO: Add of item with id Magento_Sales::sales_creditmemo was processed [] []
+[2025-08-29T13:17:14.440619+00:00] main.INFO: Add of item with id Magento_Sales::sales_transactions was processed [] []
+[2025-08-29T13:17:14.440673+00:00] main.INFO: Add of item with id Magento_Sales::system_order_statuses was processed [] []
+[2025-08-29T13:17:14.440726+00:00] main.INFO: Add of item with id Magento_Widget::cms_widget_instance was processed [] []
+[2025-08-29T13:17:14.440785+00:00] main.INFO: Add of item with id Magento_Analytics::business_intelligence was processed [] []
+[2025-08-29T13:17:14.440846+00:00] main.INFO: Add of item with id Magento_Analytics::advanced_reporting was processed [] []
+[2025-08-29T13:17:14.440900+00:00] main.INFO: Add of item with id Magento_Analytics::bi_essentials was processed [] []
+[2025-08-29T13:17:14.440960+00:00] main.INFO: Add of item with id Magento_Downloadable::report_products_downloads was processed [] []
+[2025-08-29T13:17:14.441021+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_import was processed [] []
+[2025-08-29T13:17:14.441076+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_export was processed [] []
+[2025-08-29T13:17:14.441129+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_history was processed [] []
+[2025-08-29T13:17:14.441189+00:00] main.INFO: Add of item with id Magento_Email::template was processed [] []
+[2025-08-29T13:17:14.441243+00:00] main.INFO: Add of item with id Magento_EncryptionKey::system_crypt_key was processed [] []
+[2025-08-29T13:17:14.441302+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::inventory was processed [] []
+[2025-08-29T13:17:14.441390+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::source was processed [] []
+[2025-08-29T13:17:14.441450+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::stock was processed [] []
+[2025-08-29T13:17:14.441503+00:00] main.INFO: Add of item with id Magento_Reports::report was processed [] []
+[2025-08-29T13:17:14.441556+00:00] main.INFO: Add of item with id Magento_Reports::report_marketing was processed [] []
+[2025-08-29T13:17:14.441609+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot was processed [] []
+[2025-08-29T13:17:14.441668+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_sales was processed [] []
+[2025-08-29T13:17:14.441723+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_tax was processed [] []
+[2025-08-29T13:17:14.441776+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_invoiced was processed [] []
+[2025-08-29T13:17:14.441851+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_shipping was processed [] []
+[2025-08-29T13:17:14.441943+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_refunded was processed [] []
+[2025-08-29T13:17:14.441997+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_coupons was processed [] []
+[2025-08-29T13:17:14.442057+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_product was processed [] []
+[2025-08-29T13:17:14.442111+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_abandoned was processed [] []
+[2025-08-29T13:17:14.442165+00:00] main.INFO: Add of item with id Magento_Reports::report_products was processed [] []
+[2025-08-29T13:17:14.442218+00:00] main.INFO: Add of item with id Magento_Reports::report_products_bestsellers was processed [] []
+[2025-08-29T13:17:14.442271+00:00] main.INFO: Add of item with id Magento_Reports::report_products_sold was processed [] []
+[2025-08-29T13:17:14.442324+00:00] main.INFO: Add of item with id Magento_Reports::report_products_viewed was processed [] []
+[2025-08-29T13:17:14.442407+00:00] main.INFO: Add of item with id Magento_Reports::report_products_lowstock was processed [] []
+[2025-08-29T13:17:14.442462+00:00] main.INFO: Add of item with id Magento_Reports::report_customers was processed [] []
+[2025-08-29T13:17:14.442522+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_accounts was processed [] []
+[2025-08-29T13:17:14.442577+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_totals was processed [] []
+[2025-08-29T13:17:14.442630+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_orders was processed [] []
+[2025-08-29T13:17:14.442682+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics was processed [] []
+[2025-08-29T13:17:14.442742+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics_refresh was processed [] []
+[2025-08-29T13:17:14.442796+00:00] main.INFO: Add of item with id Magento_Search::report_search_term was processed [] []
+[2025-08-29T13:17:14.442850+00:00] main.INFO: Add of item with id Magento_LoginAsCustomerLog::login_log was processed [] []
+[2025-08-29T13:17:14.442903+00:00] main.INFO: Add of item with id Magento_Marketplace::partners was processed [] []
+[2025-08-29T13:17:14.442956+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_template was processed [] []
+[2025-08-29T13:17:14.443009+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_queue was processed [] []
+[2025-08-29T13:17:14.443062+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_subscriber was processed [] []
+[2025-08-29T13:17:14.443114+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_problem was processed [] []
+[2025-08-29T13:17:14.443167+00:00] main.INFO: Add of item with id Magento_SalesRule::promo_quote was processed [] []
+[2025-08-29T13:17:14.443237+00:00] main.INFO: Add of item with id Magento_Sitemap::catalog_sitemap was processed [] []
+[2025-08-29T13:17:14.443290+00:00] main.INFO: Add of item with id Magento_PageBuilder::templates was processed [] []
+[2025-08-29T13:17:14.443354+00:00] main.INFO: Add of item with id Magento_Paypal::report_salesroot_paypal_settlement_reports was processed [] []
+[2025-08-29T13:17:14.443417+00:00] main.INFO: Add of item with id Magento_Paypal::paypal_billing_agreement was processed [] []
+[2025-08-29T13:17:14.443470+00:00] main.INFO: Add of item with id Magento_CheckoutAgreements::sales_checkoutagreement was processed [] []
+[2025-08-29T13:17:14.443525+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_ratings was processed [] []
+[2025-08-29T13:17:14.443586+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_pending was processed [] []
+[2025-08-29T13:17:14.443641+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_reviews_all was processed [] []
+[2025-08-29T13:17:14.443694+00:00] main.INFO: Add of item with id Magento_Review::report_review was processed [] []
+[2025-08-29T13:17:14.443754+00:00] main.INFO: Add of item with id Magento_Review::report_review_customer was processed [] []
+[2025-08-29T13:17:14.443809+00:00] main.INFO: Add of item with id Magento_Review::report_review_product was processed [] []
+[2025-08-29T13:17:14.443862+00:00] main.INFO: Add of item with id Magento_UrlRewrite::urlrewrite was processed [] []
+[2025-08-29T13:17:14.443915+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax was processed [] []
+[2025-08-29T13:17:14.443975+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rules was processed [] []
+[2025-08-29T13:17:14.444030+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rates was processed [] []
+[2025-08-29T13:17:14.444091+00:00] main.INFO: Add of item with id Magento_TaxImportExport::system_convert_tax was processed [] []
+[2025-08-29T13:17:14.444178+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging was processed [] []
+[2025-08-29T13:17:14.444241+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging_bulk_operations was processed [] []
+[2025-08-29T13:17:14.444304+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency was processed [] []
+[2025-08-29T13:17:14.444376+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_rates was processed [] []
+[2025-08-29T13:17:14.444434+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_symbols was processed [] []
+[2025-08-29T13:17:14.444488+00:00] main.INFO: Add of item with id PayPal_Braintree::settlement_report was processed [] []
+[2025-08-29T13:17:14.444541+00:00] main.INFO: Add of item with id PayPal_Braintree::virtual_terminal was processed [] []
+[2025-08-29T13:17:16.103887+00:00] main.ERROR: Laminas\Mail\Transport\Exception\RuntimeException: Unable to send mail: Unknown error in /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php:313
+Stack trace:
+#0 /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php(150): Laminas\Mail\Transport\Sendmail->mailHandler()
+#1 /var/www/html/magento2/vendor/magento/module-email/Model/Transport.php(183): Laminas\Mail\Transport\Sendmail->send()
+#2 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Email\Model\Transport->sendMessage()
+#3 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Email\Model\Transport\Interceptor->___callParent()
+#4 /var/www/html/magento2/vendor/magento/module-email/Model/Mail/TransportInterfacePlugin.php(48): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#5 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Email\Model\Mail\TransportInterfacePlugin->aroundSendMessage()
+#6 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /var/www/html/magento2/generated/code/Magento/Email/Model/Transport/Interceptor.php(23): Magento\Email\Model\Transport\Interceptor->___callPlugins()
+#8 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(106): Magento\Email\Model\Transport\Interceptor->sendMessage()
+#9 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(135): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendConfigRequired()
+#10 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/UserConfig/UserConfigRequestManager.php(82): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendAppConfigRequestMessage()
+#11 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/Tfa/Requestconfig.php(95): Magento\TwoFactorAuth\Model\UserConfig\UserConfigRequestManager->sendConfigRequestTo()
+#12 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig->execute()
+#13 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#14 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#15 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(23): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#16 /var/www/html/magento2/vendor/magento/framework/App/Action/Action.php(111): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->execute()
+#17 /var/www/html/magento2/vendor/magento/module-backend/App/AbstractAction.php(151): Magento\Framework\App\Action\Action->dispatch()
+#18 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/AbstractAction.php(30): Magento\Backend\App\AbstractAction->dispatch()
+#19 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\AbstractAction->dispatch()
+#20 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#21 /var/www/html/magento2/vendor/magento/module-backend/App/Action/Plugin/Authentication.php(145): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Backend\App\Action\Plugin\Authentication->aroundDispatch()
+#23 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#24 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(32): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#25 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(245): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->dispatch()
+#26 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(212): Magento\Framework\App\FrontController->getActionResponse()
+#27 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(147): Magento\Framework\App\FrontController->processRequest()
+#28 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#29 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#30 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#31 /var/www/html/magento2/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#32 /var/www/html/magento2/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#33 /var/www/html/magento2/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#34 /var/www/html/magento2/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#35 {main} {"exception":"[object] (Laminas\\Mail\\Transport\\Exception\\RuntimeException(code: 0): Unable to send mail: Unknown error at /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php:313)"} []
+[2025-08-29T13:17:16.105527+00:00] main.CRITICAL: Laminas\Mail\Transport\Exception\RuntimeException: Unable to send mail: Unknown error in /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php:313
+Stack trace:
+#0 /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php(150): Laminas\Mail\Transport\Sendmail->mailHandler()
+#1 /var/www/html/magento2/vendor/magento/module-email/Model/Transport.php(183): Laminas\Mail\Transport\Sendmail->send()
+#2 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Email\Model\Transport->sendMessage()
+#3 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Email\Model\Transport\Interceptor->___callParent()
+#4 /var/www/html/magento2/vendor/magento/module-email/Model/Mail/TransportInterfacePlugin.php(48): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#5 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Email\Model\Mail\TransportInterfacePlugin->aroundSendMessage()
+#6 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /var/www/html/magento2/generated/code/Magento/Email/Model/Transport/Interceptor.php(23): Magento\Email\Model\Transport\Interceptor->___callPlugins()
+#8 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(106): Magento\Email\Model\Transport\Interceptor->sendMessage()
+#9 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(135): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendConfigRequired()
+#10 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/UserConfig/UserConfigRequestManager.php(82): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendAppConfigRequestMessage()
+#11 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/Tfa/Requestconfig.php(95): Magento\TwoFactorAuth\Model\UserConfig\UserConfigRequestManager->sendConfigRequestTo()
+#12 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig->execute()
+#13 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#14 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#15 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(23): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#16 /var/www/html/magento2/vendor/magento/framework/App/Action/Action.php(111): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->execute()
+#17 /var/www/html/magento2/vendor/magento/module-backend/App/AbstractAction.php(151): Magento\Framework\App\Action\Action->dispatch()
+#18 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/AbstractAction.php(30): Magento\Backend\App\AbstractAction->dispatch()
+#19 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\AbstractAction->dispatch()
+#20 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#21 /var/www/html/magento2/vendor/magento/module-backend/App/Action/Plugin/Authentication.php(145): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Backend\App\Action\Plugin\Authentication->aroundDispatch()
+#23 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#24 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(32): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#25 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(245): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->dispatch()
+#26 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(212): Magento\Framework\App\FrontController->getActionResponse()
+#27 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(147): Magento\Framework\App\FrontController->processRequest()
+#28 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#29 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#30 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#31 /var/www/html/magento2/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#32 /var/www/html/magento2/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#33 /var/www/html/magento2/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#34 /var/www/html/magento2/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#35 {main}
+
+Next Magento\Framework\Exception\MailException: Unable to send mail. Please try again later. in /var/www/html/magento2/vendor/magento/module-email/Model/Transport.php:186
+Stack trace:
+#0 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Email\Model\Transport->sendMessage()
+#1 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Email\Model\Transport\Interceptor->___callParent()
+#2 /var/www/html/magento2/vendor/magento/module-email/Model/Mail/TransportInterfacePlugin.php(48): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#3 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Email\Model\Mail\TransportInterfacePlugin->aroundSendMessage()
+#4 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#5 /var/www/html/magento2/generated/code/Magento/Email/Model/Transport/Interceptor.php(23): Magento\Email\Model\Transport\Interceptor->___callPlugins()
+#6 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(106): Magento\Email\Model\Transport\Interceptor->sendMessage()
+#7 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(135): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendConfigRequired()
+#8 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/UserConfig/UserConfigRequestManager.php(82): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendAppConfigRequestMessage()
+#9 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/Tfa/Requestconfig.php(95): Magento\TwoFactorAuth\Model\UserConfig\UserConfigRequestManager->sendConfigRequestTo()
+#10 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig->execute()
+#11 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#12 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#13 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(23): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#14 /var/www/html/magento2/vendor/magento/framework/App/Action/Action.php(111): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->execute()
+#15 /var/www/html/magento2/vendor/magento/module-backend/App/AbstractAction.php(151): Magento\Framework\App\Action\Action->dispatch()
+#16 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/AbstractAction.php(30): Magento\Backend\App\AbstractAction->dispatch()
+#17 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\AbstractAction->dispatch()
+#18 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#19 /var/www/html/magento2/vendor/magento/module-backend/App/Action/Plugin/Authentication.php(145): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#20 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Backend\App\Action\Plugin\Authentication->aroundDispatch()
+#21 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(32): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#23 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(245): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->dispatch()
+#24 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(212): Magento\Framework\App\FrontController->getActionResponse()
+#25 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(147): Magento\Framework\App\FrontController->processRequest()
+#26 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#27 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#28 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#29 /var/www/html/magento2/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#30 /var/www/html/magento2/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#31 /var/www/html/magento2/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#32 /var/www/html/magento2/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#33 {main} {"exception":"[object] (Magento\\Framework\\Exception\\MailException(code: 0): Unable to send mail. Please try again later. at /var/www/html/magento2/vendor/magento/module-email/Model/Transport.php:186)
+[previous exception] [object] (Laminas\\Mail\\Transport\\Exception\\RuntimeException(code: 0): Unable to send mail: Unknown error at /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php:313)"} []
+[2025-08-29T13:18:00.214357+00:00] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://magento2.local/admin_yw4pn7/admin/","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingAnyTag"}} []
+[2025-08-29T13:18:00.232234+00:00] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://magento2.local/admin_yw4pn7/admin/","invalidateInfo":{"tags":["PB_EDITOR_CONFIG","CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T13:18:00.350723+00:00] main.ERROR: Laminas\Mail\Transport\Exception\RuntimeException: Unable to send mail: Unknown error in /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php:313
+Stack trace:
+#0 /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php(150): Laminas\Mail\Transport\Sendmail->mailHandler()
+#1 /var/www/html/magento2/vendor/magento/module-email/Model/Transport.php(183): Laminas\Mail\Transport\Sendmail->send()
+#2 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Email\Model\Transport->sendMessage()
+#3 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Email\Model\Transport\Interceptor->___callParent()
+#4 /var/www/html/magento2/vendor/magento/module-email/Model/Mail/TransportInterfacePlugin.php(48): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#5 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Email\Model\Mail\TransportInterfacePlugin->aroundSendMessage()
+#6 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /var/www/html/magento2/generated/code/Magento/Email/Model/Transport/Interceptor.php(23): Magento\Email\Model\Transport\Interceptor->___callPlugins()
+#8 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(106): Magento\Email\Model\Transport\Interceptor->sendMessage()
+#9 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(135): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendConfigRequired()
+#10 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/UserConfig/UserConfigRequestManager.php(82): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendAppConfigRequestMessage()
+#11 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/Tfa/Requestconfig.php(95): Magento\TwoFactorAuth\Model\UserConfig\UserConfigRequestManager->sendConfigRequestTo()
+#12 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig->execute()
+#13 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#14 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#15 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(23): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#16 /var/www/html/magento2/vendor/magento/framework/App/Action/Action.php(111): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->execute()
+#17 /var/www/html/magento2/vendor/magento/module-backend/App/AbstractAction.php(151): Magento\Framework\App\Action\Action->dispatch()
+#18 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/AbstractAction.php(30): Magento\Backend\App\AbstractAction->dispatch()
+#19 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\AbstractAction->dispatch()
+#20 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#21 /var/www/html/magento2/vendor/magento/module-backend/App/Action/Plugin/Authentication.php(145): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Backend\App\Action\Plugin\Authentication->aroundDispatch()
+#23 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#24 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(32): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#25 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(245): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->dispatch()
+#26 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(212): Magento\Framework\App\FrontController->getActionResponse()
+#27 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(147): Magento\Framework\App\FrontController->processRequest()
+#28 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#29 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#30 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#31 /var/www/html/magento2/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#32 /var/www/html/magento2/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#33 /var/www/html/magento2/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#34 /var/www/html/magento2/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#35 {main} {"exception":"[object] (Laminas\\Mail\\Transport\\Exception\\RuntimeException(code: 0): Unable to send mail: Unknown error at /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php:313)"} []
+[2025-08-29T13:18:00.351537+00:00] main.CRITICAL: Laminas\Mail\Transport\Exception\RuntimeException: Unable to send mail: Unknown error in /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php:313
+Stack trace:
+#0 /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php(150): Laminas\Mail\Transport\Sendmail->mailHandler()
+#1 /var/www/html/magento2/vendor/magento/module-email/Model/Transport.php(183): Laminas\Mail\Transport\Sendmail->send()
+#2 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Email\Model\Transport->sendMessage()
+#3 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Email\Model\Transport\Interceptor->___callParent()
+#4 /var/www/html/magento2/vendor/magento/module-email/Model/Mail/TransportInterfacePlugin.php(48): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#5 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Email\Model\Mail\TransportInterfacePlugin->aroundSendMessage()
+#6 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /var/www/html/magento2/generated/code/Magento/Email/Model/Transport/Interceptor.php(23): Magento\Email\Model\Transport\Interceptor->___callPlugins()
+#8 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(106): Magento\Email\Model\Transport\Interceptor->sendMessage()
+#9 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(135): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendConfigRequired()
+#10 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/UserConfig/UserConfigRequestManager.php(82): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendAppConfigRequestMessage()
+#11 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/Tfa/Requestconfig.php(95): Magento\TwoFactorAuth\Model\UserConfig\UserConfigRequestManager->sendConfigRequestTo()
+#12 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig->execute()
+#13 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#14 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#15 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(23): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#16 /var/www/html/magento2/vendor/magento/framework/App/Action/Action.php(111): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->execute()
+#17 /var/www/html/magento2/vendor/magento/module-backend/App/AbstractAction.php(151): Magento\Framework\App\Action\Action->dispatch()
+#18 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/AbstractAction.php(30): Magento\Backend\App\AbstractAction->dispatch()
+#19 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\AbstractAction->dispatch()
+#20 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#21 /var/www/html/magento2/vendor/magento/module-backend/App/Action/Plugin/Authentication.php(145): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Backend\App\Action\Plugin\Authentication->aroundDispatch()
+#23 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#24 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(32): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#25 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(245): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->dispatch()
+#26 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(212): Magento\Framework\App\FrontController->getActionResponse()
+#27 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(147): Magento\Framework\App\FrontController->processRequest()
+#28 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#29 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#30 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#31 /var/www/html/magento2/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#32 /var/www/html/magento2/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#33 /var/www/html/magento2/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#34 /var/www/html/magento2/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#35 {main}
+
+Next Magento\Framework\Exception\MailException: Unable to send mail. Please try again later. in /var/www/html/magento2/vendor/magento/module-email/Model/Transport.php:186
+Stack trace:
+#0 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Email\Model\Transport->sendMessage()
+#1 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Email\Model\Transport\Interceptor->___callParent()
+#2 /var/www/html/magento2/vendor/magento/module-email/Model/Mail/TransportInterfacePlugin.php(48): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#3 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Email\Model\Mail\TransportInterfacePlugin->aroundSendMessage()
+#4 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#5 /var/www/html/magento2/generated/code/Magento/Email/Model/Transport/Interceptor.php(23): Magento\Email\Model\Transport\Interceptor->___callPlugins()
+#6 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(106): Magento\Email\Model\Transport\Interceptor->sendMessage()
+#7 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(135): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendConfigRequired()
+#8 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/UserConfig/UserConfigRequestManager.php(82): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendAppConfigRequestMessage()
+#9 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/Tfa/Requestconfig.php(95): Magento\TwoFactorAuth\Model\UserConfig\UserConfigRequestManager->sendConfigRequestTo()
+#10 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig->execute()
+#11 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#12 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#13 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(23): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#14 /var/www/html/magento2/vendor/magento/framework/App/Action/Action.php(111): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->execute()
+#15 /var/www/html/magento2/vendor/magento/module-backend/App/AbstractAction.php(151): Magento\Framework\App\Action\Action->dispatch()
+#16 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/AbstractAction.php(30): Magento\Backend\App\AbstractAction->dispatch()
+#17 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\AbstractAction->dispatch()
+#18 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#19 /var/www/html/magento2/vendor/magento/module-backend/App/Action/Plugin/Authentication.php(145): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#20 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Backend\App\Action\Plugin\Authentication->aroundDispatch()
+#21 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(32): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#23 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(245): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->dispatch()
+#24 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(212): Magento\Framework\App\FrontController->getActionResponse()
+#25 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(147): Magento\Framework\App\FrontController->processRequest()
+#26 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#27 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#28 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#29 /var/www/html/magento2/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#30 /var/www/html/magento2/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#31 /var/www/html/magento2/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#32 /var/www/html/magento2/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#33 {main} {"exception":"[object] (Magento\\Framework\\Exception\\MailException(code: 0): Unable to send mail. Please try again later. at /var/www/html/magento2/vendor/magento/module-email/Model/Transport.php:186)
+[previous exception] [object] (Laminas\\Mail\\Transport\\Exception\\RuntimeException(code: 0): Unable to send mail: Unknown error at /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php:313)"} []
+[2025-08-29T13:18:03.011031+00:00] main.DEBUG: Request validation failed for action "Magento\Backend\Controller\Adminhtml\Index\Index\Interceptor" {"exception":"[object] (Magento\\Framework\\App\\Request\\InvalidRequestException(code: 0): Invalid request received at /var/www/html/magento2/vendor/magento/module-backend/App/Request/BackendValidator.php:176)"} []
+[2025-08-29T13:18:03.131722+00:00] main.ERROR: Laminas\Mail\Transport\Exception\RuntimeException: Unable to send mail: Unknown error in /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php:313
+Stack trace:
+#0 /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php(150): Laminas\Mail\Transport\Sendmail->mailHandler()
+#1 /var/www/html/magento2/vendor/magento/module-email/Model/Transport.php(183): Laminas\Mail\Transport\Sendmail->send()
+#2 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Email\Model\Transport->sendMessage()
+#3 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Email\Model\Transport\Interceptor->___callParent()
+#4 /var/www/html/magento2/vendor/magento/module-email/Model/Mail/TransportInterfacePlugin.php(48): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#5 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Email\Model\Mail\TransportInterfacePlugin->aroundSendMessage()
+#6 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /var/www/html/magento2/generated/code/Magento/Email/Model/Transport/Interceptor.php(23): Magento\Email\Model\Transport\Interceptor->___callPlugins()
+#8 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(106): Magento\Email\Model\Transport\Interceptor->sendMessage()
+#9 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(135): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendConfigRequired()
+#10 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/UserConfig/UserConfigRequestManager.php(82): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendAppConfigRequestMessage()
+#11 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/Tfa/Requestconfig.php(95): Magento\TwoFactorAuth\Model\UserConfig\UserConfigRequestManager->sendConfigRequestTo()
+#12 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig->execute()
+#13 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#14 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#15 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(23): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#16 /var/www/html/magento2/vendor/magento/framework/App/Action/Action.php(111): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->execute()
+#17 /var/www/html/magento2/vendor/magento/module-backend/App/AbstractAction.php(151): Magento\Framework\App\Action\Action->dispatch()
+#18 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/AbstractAction.php(30): Magento\Backend\App\AbstractAction->dispatch()
+#19 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\AbstractAction->dispatch()
+#20 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#21 /var/www/html/magento2/vendor/magento/module-backend/App/Action/Plugin/Authentication.php(145): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Backend\App\Action\Plugin\Authentication->aroundDispatch()
+#23 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#24 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(32): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#25 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(245): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->dispatch()
+#26 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(212): Magento\Framework\App\FrontController->getActionResponse()
+#27 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(147): Magento\Framework\App\FrontController->processRequest()
+#28 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#29 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#30 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#31 /var/www/html/magento2/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#32 /var/www/html/magento2/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#33 /var/www/html/magento2/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#34 /var/www/html/magento2/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#35 {main} {"exception":"[object] (Laminas\\Mail\\Transport\\Exception\\RuntimeException(code: 0): Unable to send mail: Unknown error at /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php:313)"} []
+[2025-08-29T13:18:03.132531+00:00] main.CRITICAL: Laminas\Mail\Transport\Exception\RuntimeException: Unable to send mail: Unknown error in /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php:313
+Stack trace:
+#0 /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php(150): Laminas\Mail\Transport\Sendmail->mailHandler()
+#1 /var/www/html/magento2/vendor/magento/module-email/Model/Transport.php(183): Laminas\Mail\Transport\Sendmail->send()
+#2 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Email\Model\Transport->sendMessage()
+#3 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Email\Model\Transport\Interceptor->___callParent()
+#4 /var/www/html/magento2/vendor/magento/module-email/Model/Mail/TransportInterfacePlugin.php(48): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#5 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Email\Model\Mail\TransportInterfacePlugin->aroundSendMessage()
+#6 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#7 /var/www/html/magento2/generated/code/Magento/Email/Model/Transport/Interceptor.php(23): Magento\Email\Model\Transport\Interceptor->___callPlugins()
+#8 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(106): Magento\Email\Model\Transport\Interceptor->sendMessage()
+#9 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(135): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendConfigRequired()
+#10 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/UserConfig/UserConfigRequestManager.php(82): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendAppConfigRequestMessage()
+#11 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/Tfa/Requestconfig.php(95): Magento\TwoFactorAuth\Model\UserConfig\UserConfigRequestManager->sendConfigRequestTo()
+#12 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig->execute()
+#13 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#14 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#15 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(23): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#16 /var/www/html/magento2/vendor/magento/framework/App/Action/Action.php(111): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->execute()
+#17 /var/www/html/magento2/vendor/magento/module-backend/App/AbstractAction.php(151): Magento\Framework\App\Action\Action->dispatch()
+#18 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/AbstractAction.php(30): Magento\Backend\App\AbstractAction->dispatch()
+#19 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\AbstractAction->dispatch()
+#20 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#21 /var/www/html/magento2/vendor/magento/module-backend/App/Action/Plugin/Authentication.php(145): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Backend\App\Action\Plugin\Authentication->aroundDispatch()
+#23 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#24 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(32): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#25 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(245): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->dispatch()
+#26 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(212): Magento\Framework\App\FrontController->getActionResponse()
+#27 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(147): Magento\Framework\App\FrontController->processRequest()
+#28 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#29 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#30 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#31 /var/www/html/magento2/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#32 /var/www/html/magento2/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#33 /var/www/html/magento2/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#34 /var/www/html/magento2/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#35 {main}
+
+Next Magento\Framework\Exception\MailException: Unable to send mail. Please try again later. in /var/www/html/magento2/vendor/magento/module-email/Model/Transport.php:186
+Stack trace:
+#0 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Email\Model\Transport->sendMessage()
+#1 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Email\Model\Transport\Interceptor->___callParent()
+#2 /var/www/html/magento2/vendor/magento/module-email/Model/Mail/TransportInterfacePlugin.php(48): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#3 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Email\Model\Mail\TransportInterfacePlugin->aroundSendMessage()
+#4 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Email\Model\Transport\Interceptor->Magento\Framework\Interception\{closure}()
+#5 /var/www/html/magento2/generated/code/Magento/Email/Model/Transport/Interceptor.php(23): Magento\Email\Model\Transport\Interceptor->___callPlugins()
+#6 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(106): Magento\Email\Model\Transport\Interceptor->sendMessage()
+#7 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/EmailUserNotifier.php(135): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendConfigRequired()
+#8 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Model/UserConfig/UserConfigRequestManager.php(82): Magento\TwoFactorAuth\Model\EmailUserNotifier->sendAppConfigRequestMessage()
+#9 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/Tfa/Requestconfig.php(95): Magento\TwoFactorAuth\Model\UserConfig\UserConfigRequestManager->sendConfigRequestTo()
+#10 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig->execute()
+#11 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#12 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#13 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(23): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#14 /var/www/html/magento2/vendor/magento/framework/App/Action/Action.php(111): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->execute()
+#15 /var/www/html/magento2/vendor/magento/module-backend/App/AbstractAction.php(151): Magento\Framework\App\Action\Action->dispatch()
+#16 /var/www/html/magento2/vendor/magento/module-two-factor-auth/Controller/Adminhtml/AbstractAction.php(30): Magento\Backend\App\AbstractAction->dispatch()
+#17 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\TwoFactorAuth\Controller\Adminhtml\AbstractAction->dispatch()
+#18 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callParent()
+#19 /var/www/html/magento2/vendor/magento/module-backend/App/Action/Plugin/Authentication.php(145): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#20 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(135): Magento\Backend\App\Action\Plugin\Authentication->aroundDispatch()
+#21 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->Magento\Framework\Interception\{closure}()
+#22 /var/www/html/magento2/generated/code/Magento/TwoFactorAuth/Controller/Adminhtml/Tfa/Requestconfig/Interceptor.php(32): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->___callPlugins()
+#23 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(245): Magento\TwoFactorAuth\Controller\Adminhtml\Tfa\Requestconfig\Interceptor->dispatch()
+#24 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(212): Magento\Framework\App\FrontController->getActionResponse()
+#25 /var/www/html/magento2/vendor/magento/framework/App/FrontController.php(147): Magento\Framework\App\FrontController->processRequest()
+#26 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(58): Magento\Framework\App\FrontController->dispatch()
+#27 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(138): Magento\Framework\App\FrontController\Interceptor->___callParent()
+#28 /var/www/html/magento2/vendor/magento/framework/Interception/Interceptor.php(153): Magento\Framework\App\FrontController\Interceptor->Magento\Framework\Interception\{closure}()
+#29 /var/www/html/magento2/generated/code/Magento/Framework/App/FrontController/Interceptor.php(23): Magento\Framework\App\FrontController\Interceptor->___callPlugins()
+#30 /var/www/html/magento2/vendor/magento/framework/App/Http.php(116): Magento\Framework\App\FrontController\Interceptor->dispatch()
+#31 /var/www/html/magento2/vendor/magento/framework/App/Bootstrap.php(264): Magento\Framework\App\Http->launch()
+#32 /var/www/html/magento2/pub/index.php(30): Magento\Framework\App\Bootstrap->run()
+#33 {main} {"exception":"[object] (Magento\\Framework\\Exception\\MailException(code: 0): Unable to send mail. Please try again later. at /var/www/html/magento2/vendor/magento/module-email/Model/Transport.php:186)
+[previous exception] [object] (Laminas\\Mail\\Transport\\Exception\\RuntimeException(code: 0): Unable to send mail: Unknown error at /var/www/html/magento2/vendor/laminas/laminas-mail/src/Transport/Sendmail.php:313)"} []
+[2025-08-29T13:20:58.336765+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":[],"mode":"all"}} []
+[2025-08-29T13:20:58.341343+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":[],"mode":"all"}} []
+[2025-08-29T13:21:19.534055+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:45.380854+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:45.381895+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:45.382412+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:45.382807+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:45.383109+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:45.383471+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:45.383831+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:45.384129+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:45.384416+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:45.384675+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:45.384924+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:45.386626+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:45.386965+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:45.387231+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.368229+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.426508+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.427247+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.427528+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.427787+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.428039+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.428288+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.428552+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.428812+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.429060+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.429307+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.429575+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.429979+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.430235+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2025-08-29T13:21:52.430502+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2025-08-29T13:22:02.039634+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2025-08-29T13:22:02.039981+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2025-08-29T13:22:02.040278+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2025-08-29T13:22:34.668650+00:00] main.INFO: Item Magento_Backend::system_currency was removed [] []
+[2025-08-29T13:22:34.673568+00:00] main.INFO: Add of item with id Magento_Config::system_config was processed [] []
+[2025-08-29T13:22:34.673756+00:00] main.INFO: Add of item with id Magento_AdminNotification::system_adminnotification was processed [] []
+[2025-08-29T13:22:34.673864+00:00] main.INFO: Add of item with id Magento_Theme::design_config was processed [] []
+[2025-08-29T13:22:34.673941+00:00] main.INFO: Add of item with id Magento_Theme::system_design_theme was processed [] []
+[2025-08-29T13:22:34.674008+00:00] main.INFO: Add of item with id Magento_Backend::system_design_schedule was processed [] []
+[2025-08-29T13:22:34.674072+00:00] main.INFO: Add of item with id Magento_Backend::system_store was processed [] []
+[2025-08-29T13:22:34.674135+00:00] main.INFO: Add of item with id Magento_Backend::dashboard was processed [] []
+[2025-08-29T13:22:34.674195+00:00] main.INFO: Add of item with id Magento_Backend::system was processed [] []
+[2025-08-29T13:22:34.674276+00:00] main.INFO: Add of item with id Magento_Backend::system_tools was processed [] []
+[2025-08-29T13:22:34.674379+00:00] main.INFO: Add of item with id Magento_Backend::system_design was processed [] []
+[2025-08-29T13:22:34.674441+00:00] main.INFO: Add of item with id Magento_Backend::system_convert was processed [] []
+[2025-08-29T13:22:34.674513+00:00] main.INFO: Add of item with id Magento_Backend::system_cache was processed [] []
+[2025-08-29T13:22:34.674572+00:00] main.INFO: Add of item with id Magento_Backend::marketing was processed [] []
+[2025-08-29T13:22:34.674643+00:00] main.INFO: Add of item with id Magento_Backend::marketing_communications was processed [] []
+[2025-08-29T13:22:34.674703+00:00] main.INFO: Add of item with id Magento_Backend::marketing_seo was processed [] []
+[2025-08-29T13:22:34.674760+00:00] main.INFO: Add of item with id Magento_Backend::marketing_user_content was processed [] []
+[2025-08-29T13:22:34.674815+00:00] main.INFO: Add of item with id Magento_Backend::content was processed [] []
+[2025-08-29T13:22:34.674871+00:00] main.INFO: Add of item with id Magento_Backend::content_elements was processed [] []
+[2025-08-29T13:22:34.674926+00:00] main.INFO: Add of item with id Magento_Backend::stores was processed [] []
+[2025-08-29T13:22:34.674996+00:00] main.INFO: Add of item with id Magento_Backend::stores_settings was processed [] []
+[2025-08-29T13:22:34.675053+00:00] main.INFO: Add of item with id Magento_Backend::stores_attributes was processed [] []
+[2025-08-29T13:22:34.675109+00:00] main.INFO: Add of item with id Magento_Backend::other_settings was processed [] []
+[2025-08-29T13:22:34.675164+00:00] main.INFO: Add of item with id Magento_Backend::system_other_settings was processed [] []
+[2025-08-29T13:22:34.675219+00:00] main.INFO: Add of item with id Magento_User::system_acl was processed [] []
+[2025-08-29T13:22:34.675289+00:00] main.INFO: Add of item with id Magento_User::system_acl_users was processed [] []
+[2025-08-29T13:22:34.675357+00:00] main.INFO: Add of item with id Magento_User::system_acl_roles was processed [] []
+[2025-08-29T13:22:34.675416+00:00] main.INFO: Add of item with id Magento_User::system_acl_locks was processed [] []
+[2025-08-29T13:22:34.675471+00:00] main.INFO: Add of item with id Magento_Customer::customer was processed [] []
+[2025-08-29T13:22:34.675541+00:00] main.INFO: Add of item with id Magento_Customer::customer_manage was processed [] []
+[2025-08-29T13:22:34.675598+00:00] main.INFO: Add of item with id Magento_Customer::customer_online was processed [] []
+[2025-08-29T13:22:34.675654+00:00] main.INFO: Add of item with id Magento_Customer::customer_group was processed [] []
+[2025-08-29T13:22:34.675709+00:00] main.INFO: Add of item with id Magento_Backup::system_tools_backup was processed [] []
+[2025-08-29T13:22:34.675764+00:00] main.INFO: Add of item with id Magento_Indexer::system_index was processed [] []
+[2025-08-29T13:22:34.675819+00:00] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
+[2025-08-29T13:22:34.675889+00:00] main.INFO: Add of item with id Magento_Cms::cms_page was processed [] []
+[2025-08-29T13:22:34.675955+00:00] main.INFO: Add of item with id Magento_Cms::cms_block was processed [] []
+[2025-08-29T13:22:34.676026+00:00] main.INFO: Add of item with id Magento_Search::search_terms was processed [] []
+[2025-08-29T13:22:34.676083+00:00] main.INFO: Add of item with id Magento_Search::search_synonyms was processed [] []
+[2025-08-29T13:22:34.676138+00:00] main.INFO: Add of item with id Magento_Catalog::catalog was processed [] []
+[2025-08-29T13:22:34.676208+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_products was processed [] []
+[2025-08-29T13:22:34.676266+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_categories was processed [] []
+[2025-08-29T13:22:34.676342+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_attributes was processed [] []
+[2025-08-29T13:22:34.676408+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_sets was processed [] []
+[2025-08-29T13:22:34.676478+00:00] main.INFO: Add of item with id Magento_Catalog::inventory was processed [] []
+[2025-08-29T13:22:34.676545+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo was processed [] []
+[2025-08-29T13:22:34.676639+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo_catalog was processed [] []
+[2025-08-29T13:22:34.676697+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media was processed [] []
+[2025-08-29T13:22:34.676767+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media_gallery was processed [] []
+[2025-08-29T13:22:34.676825+00:00] main.INFO: Add of item with id Magento_Integration::system_extensions was processed [] []
+[2025-08-29T13:22:34.676894+00:00] main.INFO: Add of item with id Magento_Integration::system_integrations was processed [] []
+[2025-08-29T13:22:34.676951+00:00] main.INFO: Add of item with id Magento_Sales::sales was processed [] []
+[2025-08-29T13:22:34.677020+00:00] main.INFO: Add of item with id Magento_Sales::sales_operation was processed [] []
+[2025-08-29T13:22:34.677092+00:00] main.INFO: Add of item with id Magento_Sales::sales_order was processed [] []
+[2025-08-29T13:22:34.677149+00:00] main.INFO: Add of item with id Magento_Sales::sales_invoice was processed [] []
+[2025-08-29T13:22:34.677205+00:00] main.INFO: Add of item with id Magento_Sales::sales_shipment was processed [] []
+[2025-08-29T13:22:34.677259+00:00] main.INFO: Add of item with id Magento_Sales::sales_creditmemo was processed [] []
+[2025-08-29T13:22:34.677314+00:00] main.INFO: Add of item with id Magento_Sales::sales_transactions was processed [] []
+[2025-08-29T13:22:34.677383+00:00] main.INFO: Add of item with id Magento_Sales::system_order_statuses was processed [] []
+[2025-08-29T13:22:34.677439+00:00] main.INFO: Add of item with id Magento_Widget::cms_widget_instance was processed [] []
+[2025-08-29T13:22:34.677509+00:00] main.INFO: Add of item with id Magento_Analytics::business_intelligence was processed [] []
+[2025-08-29T13:22:34.677580+00:00] main.INFO: Add of item with id Magento_Analytics::advanced_reporting was processed [] []
+[2025-08-29T13:22:34.677637+00:00] main.INFO: Add of item with id Magento_Analytics::bi_essentials was processed [] []
+[2025-08-29T13:22:34.677707+00:00] main.INFO: Add of item with id Magento_Downloadable::report_products_downloads was processed [] []
+[2025-08-29T13:22:34.677779+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_import was processed [] []
+[2025-08-29T13:22:34.677837+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_export was processed [] []
+[2025-08-29T13:22:34.677892+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_history was processed [] []
+[2025-08-29T13:22:34.677961+00:00] main.INFO: Add of item with id Magento_Email::template was processed [] []
+[2025-08-29T13:22:34.678018+00:00] main.INFO: Add of item with id Magento_EncryptionKey::system_crypt_key was processed [] []
+[2025-08-29T13:22:34.678073+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::inventory was processed [] []
+[2025-08-29T13:22:34.678149+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::source was processed [] []
+[2025-08-29T13:22:34.678207+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::stock was processed [] []
+[2025-08-29T13:22:34.678262+00:00] main.INFO: Add of item with id Magento_Reports::report was processed [] []
+[2025-08-29T13:22:34.678317+00:00] main.INFO: Add of item with id Magento_Reports::report_marketing was processed [] []
+[2025-08-29T13:22:34.678386+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot was processed [] []
+[2025-08-29T13:22:34.678455+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_sales was processed [] []
+[2025-08-29T13:22:34.678513+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_tax was processed [] []
+[2025-08-29T13:22:34.678568+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_invoiced was processed [] []
+[2025-08-29T13:22:34.678623+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_shipping was processed [] []
+[2025-08-29T13:22:34.678685+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_refunded was processed [] []
+[2025-08-29T13:22:34.678741+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_coupons was processed [] []
+[2025-08-29T13:22:34.678810+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_product was processed [] []
+[2025-08-29T13:22:34.678867+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_abandoned was processed [] []
+[2025-08-29T13:22:34.678922+00:00] main.INFO: Add of item with id Magento_Reports::report_products was processed [] []
+[2025-08-29T13:22:34.678977+00:00] main.INFO: Add of item with id Magento_Reports::report_products_bestsellers was processed [] []
+[2025-08-29T13:22:34.679031+00:00] main.INFO: Add of item with id Magento_Reports::report_products_sold was processed [] []
+[2025-08-29T13:22:34.679086+00:00] main.INFO: Add of item with id Magento_Reports::report_products_viewed was processed [] []
+[2025-08-29T13:22:34.679141+00:00] main.INFO: Add of item with id Magento_Reports::report_products_lowstock was processed [] []
+[2025-08-29T13:22:34.679196+00:00] main.INFO: Add of item with id Magento_Reports::report_customers was processed [] []
+[2025-08-29T13:22:34.679265+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_accounts was processed [] []
+[2025-08-29T13:22:34.679322+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_totals was processed [] []
+[2025-08-29T13:22:34.679391+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_orders was processed [] []
+[2025-08-29T13:22:34.679447+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics was processed [] []
+[2025-08-29T13:22:34.679555+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics_refresh was processed [] []
+[2025-08-29T13:22:34.679651+00:00] main.INFO: Add of item with id Magento_Search::report_search_term was processed [] []
+[2025-08-29T13:22:34.679749+00:00] main.INFO: Add of item with id Magento_LoginAsCustomerLog::login_log was processed [] []
+[2025-08-29T13:22:34.679846+00:00] main.INFO: Add of item with id Magento_Marketplace::partners was processed [] []
+[2025-08-29T13:22:34.679947+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_template was processed [] []
+[2025-08-29T13:22:34.680045+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_queue was processed [] []
+[2025-08-29T13:22:34.680142+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_subscriber was processed [] []
+[2025-08-29T13:22:34.680230+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_problem was processed [] []
+[2025-08-29T13:22:34.680287+00:00] main.INFO: Add of item with id Magento_SalesRule::promo_quote was processed [] []
+[2025-08-29T13:22:34.680353+00:00] main.INFO: Add of item with id Magento_Sitemap::catalog_sitemap was processed [] []
+[2025-08-29T13:22:34.680430+00:00] main.INFO: Add of item with id Magento_PageBuilder::templates was processed [] []
+[2025-08-29T13:22:34.680487+00:00] main.INFO: Add of item with id Magento_Paypal::report_salesroot_paypal_settlement_reports was processed [] []
+[2025-08-29T13:22:34.680544+00:00] main.INFO: Add of item with id Magento_Paypal::paypal_billing_agreement was processed [] []
+[2025-08-29T13:22:34.680599+00:00] main.INFO: Add of item with id Magento_CheckoutAgreements::sales_checkoutagreement was processed [] []
+[2025-08-29T13:22:34.680656+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_ratings was processed [] []
+[2025-08-29T13:22:34.680743+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_pending was processed [] []
+[2025-08-29T13:22:34.680802+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_reviews_all was processed [] []
+[2025-08-29T13:22:34.680858+00:00] main.INFO: Add of item with id Magento_Review::report_review was processed [] []
+[2025-08-29T13:22:34.680940+00:00] main.INFO: Add of item with id Magento_Review::report_review_customer was processed [] []
+[2025-08-29T13:22:34.680998+00:00] main.INFO: Add of item with id Magento_Review::report_review_product was processed [] []
+[2025-08-29T13:22:34.681053+00:00] main.INFO: Add of item with id Magento_UrlRewrite::urlrewrite was processed [] []
+[2025-08-29T13:22:34.681109+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax was processed [] []
+[2025-08-29T13:22:34.681182+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rules was processed [] []
+[2025-08-29T13:22:34.681241+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rates was processed [] []
+[2025-08-29T13:22:34.681297+00:00] main.INFO: Add of item with id Magento_TaxImportExport::system_convert_tax was processed [] []
+[2025-08-29T13:22:34.681366+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging was processed [] []
+[2025-08-29T13:22:34.681442+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging_bulk_operations was processed [] []
+[2025-08-29T13:22:34.681502+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency was processed [] []
+[2025-08-29T13:22:34.681573+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_rates was processed [] []
+[2025-08-29T13:22:34.681631+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_symbols was processed [] []
+[2025-08-29T13:22:34.681686+00:00] main.INFO: Add of item with id PayPal_Braintree::settlement_report was processed [] []
+[2025-08-29T13:22:34.681742+00:00] main.INFO: Add of item with id PayPal_Braintree::virtual_terminal was processed [] []
+[2025-08-29T13:22:34.718697+00:00] main.DEBUG: Request validation failed for action "Magento\Framework\App\Action\Forward\Interceptor" {"exception":"[object] (Magento\\Framework\\App\\Request\\InvalidRequestException(code: 0): Invalid request received at /var/www/html/magento2/vendor/magento/module-backend/App/Request/BackendValidator.php:152)"} []
+[2025-08-29T13:22:58.046590+00:00] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://magento2.local/admin_yw4pn7/admin/","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingAnyTag"}} []
+[2025-08-29T13:22:58.085895+00:00] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://magento2.local/admin_yw4pn7/admin/","invalidateInfo":{"tags":["PB_EDITOR_CONFIG","CONFIG"],"mode":"matchingTag"}} []
+[2025-08-29T13:23:01.294076+00:00] main.DEBUG: Request validation failed for action "Magento\Framework\App\Action\Forward\Interceptor" {"exception":"[object] (Magento\\Framework\\App\\Request\\InvalidRequestException(code: 0): Invalid request received at /var/www/html/magento2/vendor/magento/framework/App/Request/CsrfValidator.php:105)"} []
+[2025-08-29T13:23:21.543428+00:00] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://magento2.local/admin_yw4pn7/adminAnalytics/config/enableAdminUsage/key/df2bb2db85475fccc0db6326b60b7ac7250962c69149c839256195b76d46d4e1/?isAjax=true","invalidateInfo":{"tags":["config_scopes","CONFIG"],"mode":"matchingTag"}} []
